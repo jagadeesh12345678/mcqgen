@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: jagadeesh12345678
+Author-email: jagadeeshreddyk9@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: pyPDF2
